@@ -1,10 +1,10 @@
 ---
 title: "Solving the Memory-Based Memoryless Trade-off Problem for EEG Signal Classification"
 collection: publications
-permalink: /publication/2018-10-07-Solving-the-Memory-Based-Memoryless-Trade-off-Problem-for-EEG-Signal-Classification.md
+permalink: /publication/2018-10-07-Solving-the-Memory-Based-Memoryless-Trade-off-Problem-for-EEG-Signal-Classification
 excerpt: ''
 date: 2018-10-07
-venue: 'Journal 1'
+venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2018.'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8616090/'
 citation: 'Park, Jungbae, and Sang Wan Lee. "Solving the Memory-Based Memoryless Trade-off Problem for EEG Signal Classification." 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2018.'
 ---
