@@ -1,9 +1,9 @@
 ---
 title: "PHONEMIC-LEVEL DURATION CONTROL USING ATTENTION ALIGNMENT FOR NATURAL SPEECH SYNTHESIS"
 collection: publications
-permalink: /publication/2019-05-17-pdcsynthesis
+permalink: /publication/pdcsynthesis
 excerpt: 'This paper is a procedure of "attentional control for prosody controllable speech synthesis'
-date: 2019-02-17
+date: 2019-05-17
 venue: 'ICASSP 2019'
 paperurl: ''
 citation: 'will be updated'
