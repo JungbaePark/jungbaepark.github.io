@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jungbae Park"
 title_separator          : "-"
 name                     : &name "Jungbae Park"
-description              : &description "Research Scientist"
+description              : &description "Research Scientist at Humelo Inc. & Lab for Brain and Machine Intelligence @KAIST"
 url                      : https://jungbaepark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JungbaePark/jungbaepark.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jungbae Park"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Scientist at Humelo Inc. & Lab for Brain and Machine Intelligence @KAIST"
+  location         : "Seoul, South Korea"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jungbaepark"
   google_plus      :
   keybase          :
   instagram        :
