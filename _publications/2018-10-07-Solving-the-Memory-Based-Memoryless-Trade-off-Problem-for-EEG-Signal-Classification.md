@@ -1,7 +1,7 @@
 ---
 title: "Solving the Memory-Based Memoryless Trade-off Problem for EEG Signal Classification"
 collection: publications
-permalink: /publication/2018-10-07-Solving-the-Memory-Based-Memoryless-Trade-off-Problem-for-EEG-Signal-Classification
+permalink: /20181007-Solving-the-Memory-Based-Memoryless-Trade-off-Problem-for-EEG-Signal-Classification
 excerpt: ''
 date: 2018-10-07
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2018.'
